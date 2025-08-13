@@ -1,10 +1,10 @@
-# 🛍️ Image-Based Virtual Try-On for E-Commerce Application
+# Image-Based Virtual Try-On for E-Commerce Application
 
 This project is a deep learning-powered virtual try-on system that enables users to visualize how clothes will look on them by overlaying apparel images onto their uploaded body images. It is designed for integration into e-commerce platforms, improving customer experience and reducing return rates.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload a photo and virtually try on garments
 - Realistic clothing fit using body pose estimation and garment warping
@@ -15,7 +15,7 @@ This project is a deep learning-powered virtual try-on system that enables users
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend**: React.js / HTML / CSS / Bootstrap (or any framework used)
 - **Backend**: Python Flask / FastAPI / Node.js
@@ -27,7 +27,4 @@ This project is a deep learning-powered virtual try-on system that enables users
 - **Deployment**: Docker, AWS / GCP / Heroku
 
 ---
-
-## 📂 Project Structure
---
 
